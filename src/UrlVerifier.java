@@ -19,7 +19,7 @@ public class UrlVerifier {
                         String referintaCatreTara = stringarray[i].substring(stringarray[i].indexOf("/locations/"),stringarray[i].lastIndexOf("\">"));
                         String adresaTarii = adresaDeReferinta + referintaCatreTara;
                         String tara = referintaCatreTara.substring(referintaCatreTara.lastIndexOf('/') + 1);
-                        finalOutput.write(tara+" ");
+                        finalOutput.write(tara+",");
                         URL addres = new URL(adresaTarii);
                         Scanner scan = new Scanner(addres.openStream());
                         FileWriter writer = new FileWriter("fisier_tara.txt");
@@ -39,8 +39,9 @@ public class UrlVerifier {
                                     System.out.println(stringarray2[j]);
                                     line=reader.readLine();
                                     String population = line.substring(line.indexOf(">")+1, line.lastIndexOf("<"));
-                                    System.out.println(population);  
-                                                                
+                                    String modifiedPopulation = population.replace(',', '.');
+                                    System.out.println(modifiedPopulation);
+                                    finalOutput.write(modifiedPopulation+"\n");                  
                                 }
                             line=reader.readLine();
                             }
