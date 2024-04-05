@@ -41,7 +41,15 @@ public class UrlVerifier {
                                     String population = line.substring(line.indexOf(">")+1, line.lastIndexOf("<"));
                                     String modifiedPopulation = population.replace(',', '.');
                                     System.out.println(modifiedPopulation);
-                                    finalOutput.write(modifiedPopulation+"\n");                  
+                                    finalOutput.write(modifiedPopulation);                  
+                                }
+                                if(stringarray2[j].contains("Evangelical:"))
+                                {
+                                    System.out.println(stringarray2[j]);
+                                    line=reader.readLine();
+                                    String evangelicalPercentage = line.substring(line.indexOf(">")+1, line.lastIndexOf("<"));
+                                    System.out.println(evangelicalPercentage);
+                                    finalOutput.write(","+evangelicalPercentage+"\n");
                                 }
                             line=reader.readLine();
                             }

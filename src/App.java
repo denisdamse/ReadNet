@@ -11,7 +11,6 @@ public class App
         try {
             URL addres = new URL("https://operationworld.org/locations/europe/");
             Scanner scan = new Scanner(addres.openStream());
-            
             FileWriter htmlFile = new FileWriter("fisierhtml.txt");
             BufferedReader htmlFileReader = new BufferedReader(new FileReader("fisierhtml.txt"));
             while(scan.hasNextLine())
