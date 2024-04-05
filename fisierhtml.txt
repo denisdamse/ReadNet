@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" itemscope itemtype="http://schema.org/Organization">
+	<head>
+		<meta charset="UTF-8">
+  	<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v16.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Europe - Operation World</title>
+	<link rel="canonical" href="https://operationworld.org/locations/europe/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Europe - Operation World" />
+	<meta property="og:url" content="/locations/europe/" />
+	<meta property="og:site_name" content="Operation World" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://operationworld.org/#website","url":"https://operationworld.org/","name":"Operation World","description":"The Prayer Guide to Every Nation","potentialAction":[{"@type":"SearchAction","target":"https://operationworld.org/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://operationworld.org/locations/europe/#webpage","url":"https://operationworld.org/locations/europe/","name":"Europe - Operation World","isPartOf":{"@id":"https://operationworld.org/#website"},"datePublished":"2024-02-19T18:55:14+00:00","dateModified":"2024-02-19T18:55:14+00:00","breadcrumb":{"@id":"https://operationworld.org/locations/europe/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://operationworld.org/locations/europe/"]}]},{"@type":"BreadcrumbList","@id":"https://operationworld.org/locations/europe/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://operationworld.org/","url":"https://operationworld.org/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://bridge.operationworld.org/locations/","url":"https://bridge.operationworld.org/locations/","name":"Locations"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"/locations/europe/","url":"/locations/europe/","name":"Europe"}}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Operation World &raquo; Feed" href="https://operationworld.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Operation World &raquo; Comments Feed" href="https://operationworld.org/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/operationworld.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://operationworld.org/wp-includes/css/dist/block-library/style.min.css?ver=5.7.1' media='all' />
+<link rel='stylesheet' id='operationworld-style-css'  href='https://operationworld.org/wp-content/themes/bridge_wp_theme/dist/css/styles.min.css?ver=5.7.1' media='all' />
+<link rel='stylesheet' id='Cinzel-css'  href='https://fonts.googleapis.com/css2?family=Cinzel&#038;ver=1.0' media='all' />
+<link rel='stylesheet' id='Open-css'  href='https://fonts.googleapis.com/css2?family=Open+Sans%3Awght%40400%3B700&#038;ver=1.0' media='all' />
+<script src='https://operationworld.org/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script src='https://operationworld.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://operationworld.org/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://operationworld.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://operationworld.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.1" />
+<link rel='shortlink' href='https://operationworld.org/?p=32787' />
+<link rel="alternate" type="application/json+oembed" href="https://operationworld.org/wp-json/oembed/1.0/embed?url=%2Flocations%2Feurope" />
+<link rel="alternate" type="text/xml+oembed" href="https://operationworld.org/wp-json/oembed/1.0/embed?url=%2Flocations%2Feurope&#038;format=xml" />
+<link type="application/rss+xml" rel="alternate" href="https://operationworld.org/feeds/daily_prayer.php" title="Operation World: Daily Prayer Reminder" />	<script>document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
+	<link rel="icon" href="https://operationworld.org/wp-content/uploads/2020/12/cropped-mstile-310x310-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://operationworld.org/wp-content/uploads/2020/12/cropped-mstile-310x310-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://operationworld.org/wp-content/uploads/2020/12/cropped-mstile-310x310-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://operationworld.org/wp-content/uploads/2020/12/cropped-mstile-310x310-1-270x270.png" />
+		<style id="wp-custom-css">
+			/* 
+  For the 2 col layout, to hide the PHP warning
+  First, make the warning go after the list
+  Second position the list below the heading
+*/
+.hack-php-error {
+  display: flex;
+  flex-direction: column-reverse;
+  visibility: hidden;
+}
+.hack-php-error ul {
+  visibility: visible;
+}		</style>
+				
+		  <meta property="og:type" content="website">
+		  <meta property="og:url" content="http://www.operationworld.org">
+		  <meta property="og:site_name" content="Operation World">
+		  <meta property="og:locale" content="en">
+		  <meta name="theme-color" content="#1084a6">
+
+			<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/apple-touch-icon-57x57.png" />
+			<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/apple-touch-icon-114x114.png" />
+			<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/apple-touch-icon-72x72.png" />
+			<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/apple-touch-icon-144x144.png" />
+			<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/apple-touch-icon-60x60.png" />
+			<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/apple-touch-icon-120x120.png" />
+			<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/apple-touch-icon-76x76.png" />
+			<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/apple-touch-icon-152x152.png" />
+			<link rel="icon" type="image/png" href="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/favicon-196x196.png" sizes="196x196" />
+			<link rel="icon" type="image/png" href="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/favicon-96x96.png" sizes="96x96" />
+			<link rel="icon" type="image/png" href="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/favicon-32x32.png" sizes="32x32" />
+			<link rel="icon" type="image/png" href="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/favicon-16x16.png" sizes="16x16" />
+			<link rel="icon" type="image/png" href="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/favicon-128.png" sizes="128x128" />
+			<meta name="application-name" content="Operation World"/>
+			<meta name="msapplication-TileColor" content="#1084A6" />
+			<meta name="msapplication-TileImage" content="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/mstile-144x144.png" />
+			<meta name="msapplication-square70x70logo" content="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/mstile-70x70.png" />
+			<meta name="msapplication-square150x150logo" content="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/mstile-150x150.png" />
+			<meta name="msapplication-wide310x150logo" content="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/mstile-310x150.png" />
+			<meta name="msapplication-square310x310logo" content="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/iconmeta/mstile-310x310.png" />
+	</head>
+
+	<body class="owdp-locations-template-default single single-owdp-locations postid-32787 wp-embed-responsive singular enable-search-modal missing-post-thumbnail has-single-pagination hide-avatars footer-top-visible">
+
+		<div class="content-min bg-light">
+
+			<div id="top" class="text-center"><a class="sr-only sr-only-focusable text-white js-link-scroll bg-primary" href="#site-content">Skip to main content</a></div>
+			<header class="global-header d-print-none z-1 position-relative" role="banner">
+			  			  <div class="py-1 [ bg-secondary bg-ow-paper bg-overlay ]"></div>
+
+			  <div class="navbar navbar-expand-sm bg-white shadow" role="navigation">
+			    <a class="navbar-brand py-2" href="https://operationworld.org/">
+  <svg class="nav-logo py-2 svg-tertiary svg-secondary-hover effect-all" role="img" viewBox="0 0 56.13 18.12" aria-labelledby="ow-logo_title-header ow-logo_desc-header">
+    <title id="ow-logo_title-header">Operation World</title>
+    <desc id="ow-logo_desc-header">Logo text for Operation World</desc>
+    <use xlink:href="#ow-logo-text"></use>
+  </svg>
+</a>
+
+<button class="navbar-toggler m-2 border-primary bg-primary text-white font-weight-normal small" type="button" data-toggle="collapse" data-target="#nav-primary" aria-controls="nav-primary" aria-expanded="false" aria-label="Toggle navigation">
+  Menu
+</button>
+
+<div class="collapse navbar-collapse flex-column-reverse align-items-end px-2" id="nav-primary">
+    <div class="menu-prayer-header-primary-container"><ul id="menu-prayer-header-primary" class="navbar-nav navbar-nav-orange effect-all ml-auto"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-894 nav-item"><a title="Home" href="https://operationworld.org/" class="nav-link">Home</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-900 nav-item"><a title="Prayer Resources" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="py-1 mt-1 dropdown-toggle nav-link" id="menu-item-dropdown-900">Prayer Resources</a><span class="icon"></span>
+<ul class="dropdown-menu sub-menu rounded-0 p-2 [ bg-ow-paper bg-hard-light ]dropdown-menu" aria-labelledby="menu-item-dropdown-900" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-896 nav-item"><a title="Pray Today" href="https://operationworld.org/prayer-resources/today/" class="dropdown-item">Pray Today</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-39" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39 nav-item"><a title="Prayer Calendar" href="/prayer-calendar/" class="dropdown-item">Prayer Calendar</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-948 nav-item"><a title="Countries Alphabetically" href="https://operationworld.org/prayer-resources/countries-alphabetically/" class="dropdown-item">Countries Alphabetically</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5251 nav-item"><a title="Pray for the World &#038; Regions" href="https://operationworld.org/prayer-resources/pray-for-the-world-regions/" class="dropdown-item">Pray for the World &#038; Regions</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1317 nav-item"><a title="Special Issues for Prayer" href="https://operationworld.org/prayer-resources/special-issues-for-prayer/" class="dropdown-item">Special Issues for Prayer</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-937 nav-item"><a title="Resources for Churches" href="https://operationworld.org/prayer-resources/church-resources/" class="dropdown-item">Resources for Churches</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-901 nav-item"><a title="Other Helpful Resources" href="https://operationworld.org/prayer-resources/helpful-resources/" class="dropdown-item">Other Helpful Resources</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1313" class="global-header-rightmost menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-1313 nav-item"><a title="Get Involved" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="py-1 mt-1 dropdown-toggle nav-link" id="menu-item-dropdown-1313">Get Involved</a><span class="icon"></span>
+<ul class="dropdown-menu sub-menu rounded-0 p-2 [ bg-ow-paper bg-hard-light ]dropdown-menu" aria-labelledby="menu-item-dropdown-1313" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1316 nav-item"><a title="Sign up for OW Daily Prayer E-mail" href="https://operationworld.org/get-involved/newsletter/" class="dropdown-item">Sign up for OW Daily Prayer E-mail</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-902 nav-item"><a title="Download OW Prayer App" href="https://operationworld.org/get-involved/prayer-app/" class="dropdown-item">Download OW Prayer App</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1318 nav-item"><a title="Contact Us" href="https://operationworld.org/get-involved/contact-us/" class="dropdown-item">Contact Us</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1315 nav-item"><a title="Join the Team" href="https://operationworld.org/get-involved/join-the-team/" class="dropdown-item">Join the Team</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1314 nav-item"><a title="Follow Our Social Media" href="https://operationworld.org/get-involved/social-media/" class="dropdown-item">Follow Our Social Media</a></li>
+</ul>
+</li>
+</ul></div>
+    <div class="menu-about-secondary-header-container"><ul id="menu-about-secondary-header" class="navbar-nav navbar-nav-blue navbar-nav-top effect-all ml-auto small"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-908 nav-item"><a title="About OW" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="py-1 mt-1 dropdown-toggle nav-link" id="menu-item-dropdown-908">About OW</a>
+<ul class="dropdown-menu sub-menu rounded-0 p-2 [ bg-ow-paper bg-hard-light ]dropdown-menu" aria-labelledby="menu-item-dropdown-908" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1214 nav-item"><a title="What We Do" href="https://operationworld.org/what-we-do/" class="dropdown-item">What We Do</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-909 nav-item"><a title="The Ethos of Operation World" href="https://operationworld.org/what-we-do/ethos-of-ow/" class="dropdown-item">The Ethos of Operation World</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1160 nav-item"><a title="Prayer and World Evangelization" href="https://operationworld.org/what-we-do/prayer-and-world-evangelization/" class="dropdown-item">Prayer and World Evangelization</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-938" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-938 nav-item"><a title="Updates/Blog" href="https://operationworld.org/what-we-do/updates/" class="dropdown-item">Updates/Blog</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-911 nav-item"><a title="About WEC International" href="https://operationworld.org/what-we-do/about-wec-international/" class="dropdown-item">About WEC International</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1210 nav-item"><a title="About InterVarsity Press" href="https://operationworld.org/what-we-do/about-intervarsity-press/" class="dropdown-item">About InterVarsity Press</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1183 nav-item"><a title="Frequently Asked Questions" href="https://operationworld.org/what-we-do/faq/" class="dropdown-item">Frequently Asked Questions</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1185 nav-item"><a title="Glossary" href="https://operationworld.org/what-we-do/glossary/" class="dropdown-item">Glossary</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1184 nav-item"><a title="Abbreviations" href="https://operationworld.org/what-we-do/abbr/" class="dropdown-item">Abbreviations</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1228 nav-item"><a title="What People Are Saying" href="https://operationworld.org/what-we-do/what-people-are-saying/" class="dropdown-item">What People Are Saying</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-904 nav-item"><a title="Our Publications" href="https://operationworld.org/publications/" class="nav-link">Our Publications</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-905 nav-item"><a title="Give" href="https://operationworld.org/get-involved/give/" class="nav-link">Give</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-38" class="global-search-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-38 nav-item"><a title="Search" href="#collapseSearch" class="nav-link">Search</a></li>
+</ul></div>
+</div>
+			  </div>
+
+			  			  		    <div id="collapseSearch" class="collapse py-1 [ bg-secondary bg-ow-paper bg-overlay ] ">
+		    	<div class="container" >
+		    		<form role="search" aria-label="Search" method="get" class="my-2 search-form input-group w-100" action="https://operationworld.org/">
+	<label id="searchlabel" class="m-0 w-75" for="search-form-1">
+		<span class="sr-only">Search for:</span>
+		<input type="search" id="search-form-1" class="search-field rounded-0 form-control" placeholder="Search &hellip;" value="" name="s" />
+	</label>
+
+  <div class="input-group-append w-25">
+  	<input type="submit" class="btn btn-primary btn-search rounded-right w-100" value="Search" />
+  </div>
+</form>
+		  	  </div>
+		  	</div>
+			</header>
+
+			<svg style="display:none">
+  <defs>
+        <symbol>
+      <g id="chevron-down">
+        <path transform="translate(21.920310, 0.920310) rotate(-315.000000) translate(-21.920310, -0.920310)" d="M36.4323726,16.4203102 L37.4203102,15.4323726 L36.4323726,15.4323726 L36.4323726,16.4203102 Z M36.4323726,-13.5917522 L37.4203102,-14.5796898 L37.4203102,16.4203102 L6.42031022,16.4203102 L7.40824785,15.4323726 L36.4323726,15.4323726 L36.4323726,-13.5917522 Z M37.4203102,15.4323726 L36.4323726,16.4203102 L36.4323726,15.4323726 L37.4203102,15.4323726 Z M36.4323726,-13.5917522 L37.4203102,-14.5796898 L37.4203102,16.4203102 L6.42031022,16.4203102 L7.40824785,15.4323726 L36.4323726,15.4323726 L36.4323726,-13.5917522 Z"></path>
+      </g>
+    </symbol>
+        <symbol>
+      <g id="content-arrow">
+        <path d="M12.4114433,7.56249352 L0.55428631,14.1517871 C0.277500266,14.303573 0.0542857143,14.1696443 0.0542857143,13.8571439 L0.0542857143,0.714271069 C0.0542857143,0.401770696 0.277500266,0.267841965 0.55428631,0.41962786 L12.4114433,7.00892143 C12.6882293,7.16070732 12.6882293,7.41070762 12.4114433,7.56249352 Z"></path>
+      </g>
+    </symbol>
+        <symbol>
+      <g id="ow-logo-text">
+        <path class="a" d="M276.56,411.53a2.7,2.7,0,0,1,2.91,2.79,2.91,2.91,0,0,1-3,3,2.78,2.78,0,0,1-2.87-2.92A2.87,2.87,0,0,1,276.56,411.53Zm.15,5.54c.67,0,2.05-.39,2.05-2.55,0-1.78-1.08-2.74-2.25-2.74a2.14,2.14,0,0,0-2.17,2.45C274.34,416,275.38,417.07,276.71,417.07Z" transform="translate(-268.97 -411.53)"/><path class="a" d="M281.05,413.79c0-1.16,0-1.37,0-1.6s-.07-.38-.32-.43l-.25,0s-.06,0-.06,0,0-.06.12-.06l.84,0,.93,0a1.82,1.82,0,0,1,1.38.42,1.27,1.27,0,0,1,.37.88,1.72,1.72,0,0,1-1.82,1.77h-.16s-.08,0-.08-.05,0-.07.2-.07a1.23,1.23,0,0,0,1.29-1.21,1.6,1.6,0,0,0-.42-1.14,1.29,1.29,0,0,0-1-.37,1,1,0,0,0-.32,0s0,.07,0,.14v3c0,.72,0,1.3,0,1.61s.07.38.29.41a2.35,2.35,0,0,0,.34,0s.05,0,.05.05,0,.05-.11.05l-.92,0-.71,0c-.08,0-.12,0-.12-.05s0-.05.06-.05a.91.91,0,0,0,.23,0c.14,0,.18-.19.21-.41s0-.89,0-1.61Z" transform="translate(-268.97 -411.53)"/><path class="a" d="M285.7,413.79c0-1.16,0-1.37,0-1.6s-.07-.38-.32-.43l-.25,0s-.06,0-.06,0,0-.06.12-.06h.54l.3,0h1.7a1.69,1.69,0,0,0,.32,0s.06,0,.1,0,0,0,0,.06,0,.14-.06.35,0,.4,0,.49,0,.08-.05.08-.06,0-.06-.09a.73.73,0,0,0,0-.27c-.05-.12-.13-.21-.53-.25-.12,0-.93,0-1,0s-.05,0-.05.07v2.05c0,.05,0,.07.05.07h1.18c.17,0,.28,0,.34-.11s.09-.09.12-.09,0,0,0,.06,0,.17-.06.41,0,.42,0,.48,0,.14-.05.14,0,0,0-.07a.72.72,0,0,0,0-.24c0-.11-.1-.23-.39-.26s-.93,0-1.06,0a0,0,0,0,0-.05.05v.65c0,.26,0,1.12,0,1.27,0,.51.14.61.86.61a2.16,2.16,0,0,0,.71-.08c.2-.08.29-.23.34-.54,0-.08,0-.11.06-.11s0,.06,0,.11a6.41,6.41,0,0,1-.1.72c-.05.2-.11.2-.4.2-.55,0-1,0-1.25,0l-.58,0h-.73c-.08,0-.12,0-.12-.05s0-.05.06-.05a.91.91,0,0,0,.23,0c.14,0,.18-.19.21-.41s0-.89,0-1.61Z" transform="translate(-268.97 -411.53)"/><path class="a" d="M290.22,413.79c0-1.16,0-1.37,0-1.6s-.08-.38-.32-.43l-.25,0s-.06,0-.06,0,0-.06.12-.06l.84,0,.87,0a2.31,2.31,0,0,1,1.36.32,1.33,1.33,0,0,1,.51,1,2.3,2.3,0,0,1-.9,1.72c.61.77,1.11,1.43,1.54,1.89a1.54,1.54,0,0,0,.91.54,2,2,0,0,0,.29,0s.07,0,.07.05-.05.05-.18.05h-.53a1.44,1.44,0,0,1-.79-.14,3.75,3.75,0,0,1-1-1.09c-.32-.4-.66-.9-.81-1.09a.12.12,0,0,0-.1-.05h-.91s-.05,0-.05.06v.17c0,.72,0,1.3,0,1.61s.07.38.29.41a2.35,2.35,0,0,0,.34,0s.06,0,.06.05,0,.05-.12.05l-.91,0-.7,0c-.08,0-.12,0-.12-.05s0-.05.06-.05a.83.83,0,0,0,.22,0c.15,0,.19-.19.22-.41s0-.89,0-1.61Zm.6.64a.09.09,0,0,0,.05.09,2,2,0,0,0,.78.12.93.93,0,0,0,.55-.14,1.36,1.36,0,0,0,.46-1.14c0-.93-.49-1.49-1.29-1.49a2.19,2.19,0,0,0-.49.05.08.08,0,0,0-.06.09Z" transform="translate(-268.97 -411.53)"/><path class="a" d="M296.92,411.82c.09-.24.12-.29.17-.29s.07,0,.16.27,1.27,3.35,1.73,4.47c.26.66.48.78.64.83a1.17,1.17,0,0,0,.29,0s.08,0,.08.05-.07.05-.15.05h-1.17c-.14,0-.22,0-.22-.05a0,0,0,0,1,.05-.05c.05,0,.09-.09.05-.2l-.69-1.83a.07.07,0,0,0-.07,0H296.2s-.06,0-.08.06l-.44,1.31a1.46,1.46,0,0,0-.11.5c0,.14.16.21.28.21h.08c.05,0,.07,0,.07.05s0,.05-.11.05l-.58,0-.84,0c-.09,0-.14,0-.14-.05s0-.05.07-.05h.22c.34-.05.49-.33.62-.7Zm.77,3s0,0,0-.05l-.7-2c0-.11-.07-.11-.11,0l-.65,2s0,.05,0,.05Z" transform="translate(-268.97 -411.53)"/><path class="a" d="M302.11,415.09c0,.72,0,1.3,0,1.61s.07.38.29.41a2.35,2.35,0,0,0,.34,0s.06,0,.06.05,0,.05-.12.05l-.91,0-.73,0c-.08,0-.12,0-.12-.05s0-.05.06-.05a.78.78,0,0,0,.22,0c.15,0,.19-.19.22-.41s0-.89,0-1.61V412h-1.09c-.46,0-.64.06-.76.24a2.41,2.41,0,0,0-.13.23c0,.06,0,.07-.07.07s0,0,0-.06.15-.72.17-.78,0-.14.07-.14a1.18,1.18,0,0,0,.33.09l.58,0h2.78a3.17,3.17,0,0,0,.53,0l.21,0s0,0,0,.08c0,.23,0,.74,0,.82s0,.1-.05.1,0,0-.06-.13v-.08c0-.22-.2-.39-.91-.41h-.93Z" transform="translate(-268.97 -411.53)"/><path class="a" d="M306.28,415.09c0,.72,0,1.3,0,1.61s.07.38.29.41a2.35,2.35,0,0,0,.34,0s.06,0,.06.05,0,.05-.12.05l-.91,0-.73,0c-.08,0-.12,0-.12-.05s0-.05.06-.05a.78.78,0,0,0,.22,0c.15,0,.19-.19.22-.41s0-.89,0-1.61v-1.3c0-1.16,0-1.37,0-1.6s-.09-.38-.25-.42l-.23,0s-.06,0-.06,0,0-.06.12-.06l.75,0,.72,0c.08,0,.12,0,.12.06s0,0-.06,0l-.18,0c-.2,0-.26.17-.28.43s0,.44,0,1.6Z" transform="translate(-268.97 -411.53)"/><path class="a" d="M310.81,411.53a2.71,2.71,0,0,1,2.92,2.79,2.91,2.91,0,0,1-3,3,2.78,2.78,0,0,1-2.88-2.92A2.87,2.87,0,0,1,310.81,411.53Zm.16,5.54c.66,0,2-.39,2-2.55,0-1.78-1.08-2.74-2.25-2.74a2.14,2.14,0,0,0-2.17,2.45C308.59,416,309.63,417.07,311,417.07Z" transform="translate(-268.97 -411.53)"/><path class="a" d="M315.5,416.24c0,.6.09.8.29.86a2,2,0,0,0,.37,0s.06,0,.06.05-.05.05-.14.05c-.42,0-.71,0-.78,0l-.71,0c-.08,0-.12,0-.12-.05s0-.05.06-.05a1.3,1.3,0,0,0,.3,0c.19-.06.22-.27.22-1V411.9c0-.29,0-.37.08-.37s.19.17.26.24,1.22,1.32,2.36,2.55c.74.78,1.54,1.69,1.78,1.93l-.08-3.77c0-.48-.06-.64-.29-.7a1.94,1.94,0,0,0-.36,0c-.05,0-.06,0-.06-.05s.06-.05.15-.05l.77,0,.63,0c.08,0,.13,0,.13.05s0,.05-.08.05l-.18,0c-.24.05-.27.22-.27.66l0,4.35c0,.49,0,.53-.06.53s-.15-.08-.55-.48c-.08-.07-1.15-1.16-1.93-2s-1.7-1.86-1.94-2.13Z" transform="translate(-268.97 -411.53)"/><path class="a" d="M279.79,427.62h.06c.36-1.23,1.59-5.11,2.06-6.83a3,3,0,0,0,.14-.85c0-.24-.14-.4-.76-.4-.07,0-.12,0-.12-.1s.07-.09.23-.09c.68,0,1.24,0,1.36,0s.67,0,1.09,0c.12,0,.18,0,.18.08s0,.11-.12.11a1.79,1.79,0,0,0-.45.06c-.4.15-.62.71-.87,1.45-.59,1.7-1.94,5.95-2.46,7.45-.35,1-.42,1.15-.57,1.15s-.21-.17-.4-.69l-2.62-7.44h0c-.48,1.28-2.31,6.18-2.79,7.42-.22.56-.28.71-.44.71s-.21-.15-.47-1l-2.38-7.94c-.22-.71-.39-.91-.74-1a2.06,2.06,0,0,0-.6-.08c-.07,0-.12,0-.12-.1s.08-.09.21-.09c.7,0,1.43,0,1.58,0s.71,0,1.38,0c.19,0,.24,0,.24.09s-.07.1-.13.1a1.34,1.34,0,0,0-.53.08.34.34,0,0,0-.17.32,11.19,11.19,0,0,0,.25,1.23c.2.86,1.6,5.77,1.8,6.47h0l2.84-7.62c.2-.55.25-.62.33-.62s.18.18.34.63Z" transform="translate(-268.97 -411.53)"/><path class="a" d="M290,419.16c3,0,5.26,1.9,5.26,5a5.25,5.25,0,0,1-5.34,5.47,5,5,0,0,1-5.19-5.26A5.18,5.18,0,0,1,290,419.16Zm.28,10c1.21,0,3.7-.69,3.7-4.59,0-3.21-2-4.93-4.07-4.93S286,421.09,286,424C286,427.14,287.83,429.14,290.24,429.14Z" transform="translate(-268.97 -411.53)"/><path class="a" d="M298.06,423.23c0-2.09,0-2.46,0-2.89s-.13-.67-.57-.76a2.32,2.32,0,0,0-.46,0c-.05,0-.11,0-.11-.08s.07-.11.22-.11c.6,0,1.44,0,1.51,0s1.16,0,1.58,0a4.12,4.12,0,0,1,2.45.59,2.34,2.34,0,0,1,.92,1.82,4.11,4.11,0,0,1-1.62,3.09c1.1,1.4,2,2.59,2.78,3.42a2.8,2.8,0,0,0,1.64,1,3.18,3.18,0,0,0,.52,0c.07,0,.12,0,.12.08s-.08.1-.32.1h-.95a2.68,2.68,0,0,1-1.43-.25,6.84,6.84,0,0,1-1.81-2c-.56-.73-1.19-1.63-1.46-2a.21.21,0,0,0-.17-.08l-1.65,0c-.07,0-.09,0-.09.1v.32c0,1.29,0,2.35.06,2.91.05.39.13.68.53.73a5,5,0,0,0,.6.06c.08,0,.11,0,.11.08s-.07.1-.22.1c-.73,0-1.58,0-1.64,0s-.86,0-1.26,0c-.15,0-.22,0-.22-.1s0-.08.11-.08a1.84,1.84,0,0,0,.4-.06c.27-.05.34-.34.39-.73.07-.56.07-1.62.07-2.91Zm1.07,1.16a.16.16,0,0,0,.09.16,3.69,3.69,0,0,0,1.41.22,1.69,1.69,0,0,0,1-.26,2.43,2.43,0,0,0,.82-2.06c0-1.67-.89-2.67-2.32-2.67a4,4,0,0,0-.89.08.15.15,0,0,0-.11.16Z" transform="translate(-268.97 -411.53)"/><path class="a" d="M309.27,425.61c0,2,.05,2.82.3,3.07s.56.3,1.6.3c.71,0,1.3,0,1.62-.4a1.91,1.91,0,0,0,.35-.8c0-.11,0-.18.12-.18s.08.06.08.21a9.36,9.36,0,0,1-.2,1.33c-.1.31-.14.36-.84.36-1,0-1.66,0-2.23,0s-1,0-1.36,0l-.55,0-.76,0c-.15,0-.22,0-.22-.1s0-.08.11-.08a1.84,1.84,0,0,0,.4-.06c.27-.05.34-.34.39-.73.07-.56.07-1.62.07-2.91v-2.35c0-2.09,0-2.46,0-2.89s-.13-.67-.57-.76a2.32,2.32,0,0,0-.46,0s-.11,0-.11-.08.07-.11.22-.11c.6,0,1.44,0,1.51,0s1,0,1.44,0c.15,0,.22,0,.22.11s-.06.08-.11.08a2.73,2.73,0,0,0-.44,0c-.39.06-.5.29-.52.76s0,.8,0,2.89Z" transform="translate(-268.97 -411.53)"/><path class="a" d="M316.07,423.23c0-2.09,0-2.46,0-2.89s-.13-.67-.57-.76a2.32,2.32,0,0,0-.46,0c-.05,0-.11,0-.11-.08s.07-.11.22-.11c.6,0,1.44,0,1.51,0s1,0,1.81,0c1.32,0,3.77-.12,5.36,1.52a4.79,4.79,0,0,1,1.3,3.4,5.52,5.52,0,0,1-1.44,3.78,5.34,5.34,0,0,1-4.06,1.53c-.57,0-1.28,0-1.86-.08l-1.11-.08-.53,0-.78,0c-.15,0-.21,0-.21-.1s0-.08.1-.08a1.84,1.84,0,0,0,.4-.06c.27-.05.34-.34.39-.73.07-.56.07-1.62.07-2.91Zm1.12,1.44c0,1.42,0,2.65,0,2.91a2.82,2.82,0,0,0,.15,1c.17.25.69.53,2.27.53a4.49,4.49,0,0,0,3.19-1.24,5.17,5.17,0,0,0-.22-6.57,5.48,5.48,0,0,0-4.37-1.52,3.19,3.19,0,0,0-.87.1c-.12.05-.16.12-.16.27,0,.45,0,1.82,0,2.85Z" transform="translate(-268.97 -411.53)"/>
+      </g>
+    </symbol>
+    
+        <symbol>
+      <g id="svg-search">
+        <path fill-rule="evenodd" d="M10.442 10.442a1 1 0 011.415 0l3.85 3.85a1 1 0 01-1.414 1.415l-3.85-3.85a1 1 0 010-1.415z" clip-rule="evenodd"/>
+        <path fill-rule="evenodd" d="M6.5 12a5.5 5.5 0 100-11 5.5 5.5 0 000 11zM13 6.5a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z" clip-rule="evenodd"/>
+      </g>
+    </symbol>
+  </defs>
+</svg>
+<div class="bg-topography content-min pt-4">
+  <div class="container py-4">
+      <main id="site-content" role="main">
+
+                <article class="shadow mb-5 bg-white rounded post-32787 owdp-locations type-owdp-locations status-publish hentry" id="post-32787">
+            <header class="entry-header px-4 pt-4 mb-4 ">
+              <div class="entry-header-inner d-flex flex-wrap flex-lg-nowrap">
+                <h1 class="entry-title text-brand text-brand-color brand-title-ornament-4 mb-3">
+                  Pray for: Europe                </h1>
+                            </header>
+
+            <div class="entry-content px-4">
+              <div class="row">
+                                                              </div>
+
+              <div class="row">
+                <div class="col-lg-3 small order-last bg-light mb-3 p-0">
+                  <div class="pt-3 px-3">
+
+                    <h4 class="h5 text-uppercase">Key Stats</h4>
+                    <table class="table table-sm table-borderless table-striped">
+  <caption class="caption-top sr-only">Religion & Geography</caption>
+  <thead class="sr-only">
+    <tr>
+      <th scope="col">Category</th>
+      <th scope="col">Statistic</th>
+    </tr>
+  </thead>
+  <tbody>
+          <tr>
+        <th scope="row">Continent:</th>
+        <td>Europe</td>
+      </tr>
+                    <tr>
+          <th scope="row">Population:</th>
+          <td>741,651,866</td>
+        </tr>
+                <tr>
+          <th scope="row">% Urban:</th>
+          <td>75.1 %</td>
+        </tr>
+                        <tr>
+          <th scope="row">Languages:</th>
+          <td>269</td>
+        </tr>
+                            <tr>
+          <th scope="row">% Christian:</th>
+          <td>71.3 %</td>
+      </tr>
+                <tr>
+          <th scope="row">% Evangelical:</th>
+          <td>2.5 %</td>
+      </tr>
+                <tr>
+          <th scope="row">Largest Religion:</th>
+          <td>Christian</td>
+      </tr>
+                <tr>
+          <th scope="row">% Largest Religion:</th>
+          <td>71.3 %</td>
+      </tr>
+                      </tbody>
+</table>
+
+                  </div>
+
+                                        <div class="px-3">
+
+                        <h4 class="h5 text-uppercase">Countries</h4>
+                        <div class="list-group small list-group-flush">
+                            <a class="list-group-item list-group-item-action" href="/locations/albania">Albania&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/andorra">Andorra&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/austria">Austria&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/belarus">Belarus&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/belgium">Belgium&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/bosnia">Bosnia&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/bulgaria">Bulgaria&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/croatia">Croatia&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/cyprus">Cyprus&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/czechia">Czechia&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/denmark">Denmark&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/estonia">Estonia&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/faroe-islands">Faroe Islands&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/finland">Finland&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/france">France&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/germany">Germany&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/gibraltar">Gibraltar&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/greece">Greece&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/holy-see-vatican-city-state">Holy See (Vatican City State)&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/hungary">Hungary&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/iceland">Iceland&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/ireland">Ireland&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/italy">Italy&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/kosovo">Kosovo&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/latvia">Latvia&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/liechtenstein">Liechtenstein&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/lithuania">Lithuania&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/luxembourg">Luxembourg&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/malta">Malta&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/moldova">Moldova&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/monaco">Monaco&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/montenegro">Montenegro&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/netherlands">Netherlands&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/north-macedonia">North Macedonia&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/norway">Norway&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/poland">Poland&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/portugal">Portugal&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/romania">Romania&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/russia">Russia&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/san-marino">San Marino&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/serbia">Serbia&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/slovakia">Slovakia&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/slovenia">Slovenia&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/spain">Spain&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/sweden">Sweden&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/switzerland">Switzerland&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/ukraine">Ukraine&nbsp;›</a><a class="list-group-item list-group-item-action" href="/locations/united-kingdom-of-gb-ni">United Kingdom of GB &#038; NI&nbsp;›</a>                        </div>
+                      </div>
+                  
+                </div><!-- col -->
+
+                <div class="col-lg-9 order-first">
+                  <div class="the-content">
+                                      </div>
+
+                  
+                                        <div class="w-prayer py-2 border-bottom mb-4 pb-4">
+                      <a href="/prayer-calendar/02-01">
+                        <h2 class="h5 text-uppercase">Europe</h2>
+                      </a>
+
+                        <div class="post-meta-wrapper small post-meta-single post-meta-single-top">
+                          <ul class="list-unstyled">
+                            <li class="post-author meta-wrapper list-inline-item">
+                              <span class="meta-icon mr-1">
+                                <span class="sr-only">Category</span>
+                                <svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><path fill="" d="M15.4496399,8.42490555 L8.66109799,1.63636364 L1.63636364,1.63636364 L1.63636364,8.66081885 L8.42522727,15.44178 C8.57869221,15.5954158 8.78693789,15.6817418 9.00409091,15.6817418 C9.22124393,15.6817418 9.42948961,15.5954158 9.58327627,15.4414581 L15.4486339,9.57610048 C15.7651495,9.25692435 15.7649133,8.74206554 15.4496399,8.42490555 Z M16.6084423,10.7304545 L10.7406818,16.59822 C10.280287,17.0591273 9.65554997,17.3181054 9.00409091,17.3181054 C8.35263185,17.3181054 7.72789481,17.0591273 7.26815877,16.5988788 L0.239976954,9.57887876 C0.0863319284,9.4254126 0,9.21716044 0,9 L0,0.818181818 C0,0.366312477 0.366312477,0 0.818181818,0 L9,0 C9.21699531,0 9.42510306,0.0862010512 9.57854191,0.239639906 L16.6084423,7.26954545 C17.5601275,8.22691012 17.5601275,9.77308988 16.6084423,10.7304545 Z M5,6 C4.44771525,6 4,5.55228475 4,5 C4,4.44771525 4.44771525,4 5,4 C5.55228475,4 6,4.44771525 6,5 C6,5.55228475 5.55228475,6 5,6 Z"></path></svg>
+                              </span>
+                              <span class="meta-text">
+                                <a href="/prayer-calendar">Monthly Prayer Calendar</a>
+                              </span>
+                            </li>
+                            <li class="post-date meta-wrapper list-inline-item">
+                              <span class="meta-icon mr-1">
+                                <span class="sr-only">Prayer Calendar date</span>
+                                <svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z"></path></svg>
+                              </span>
+                              <span class="meta-text">
+                                <a href="/prayer-calendar/02-01">February 1</a>
+                              </span>
+                            </li>
+                          </ul><!-- .post-meta -->
+                        </div>
+
+                      <div class="ow-meta d-none">
+                        <p>Title: Europe</p>
+                        <p>Tier: 1</p>
+                        <p>Type: continent</p>
+
+                                                  <p>Topic: Answers to Prayer - Europe</p>
+                                              </div>
+
+                      <div class="the-content">
+                                                <p>In the midst of overall population decline, and in many cases, amidst the rapid decline of those identifying as Christian, it can rightly be regarded as a point for praise that evangelicals and/or charismatics manage even to maintain their numbers. As strong national Christian identities erode, evangelicals are in fact growing in maturity, confidence and a sense of their own identity within many European countries. The robust nature of these evangelical and charismatic movements is demonstrated by their increased presence in mainline churches, which are otherwise declining, in the relative stability of theologically conservative denominations and in the arrival of dynamic new fellowships and networks onto the Church scene. All of this is modest compared to great gains in Asia and Africa, but is light in an otherwise bleak European religious landscape.</p>
+                      </div>
+                    </div><!-- w-prayer -->
+                                        <div class="w-prayer py-2 border-bottom mb-4 pb-4">
+                      <a href="/prayer-calendar/02-02">
+                        <h2 class="h5 text-uppercase">Europe</h2>
+                      </a>
+
+                        <div class="post-meta-wrapper small post-meta-single post-meta-single-top">
+                          <ul class="list-unstyled">
+                            <li class="post-author meta-wrapper list-inline-item">
+                              <span class="meta-icon mr-1">
+                                <span class="sr-only">Category</span>
+                                <svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><path fill="" d="M15.4496399,8.42490555 L8.66109799,1.63636364 L1.63636364,1.63636364 L1.63636364,8.66081885 L8.42522727,15.44178 C8.57869221,15.5954158 8.78693789,15.6817418 9.00409091,15.6817418 C9.22124393,15.6817418 9.42948961,15.5954158 9.58327627,15.4414581 L15.4486339,9.57610048 C15.7651495,9.25692435 15.7649133,8.74206554 15.4496399,8.42490555 Z M16.6084423,10.7304545 L10.7406818,16.59822 C10.280287,17.0591273 9.65554997,17.3181054 9.00409091,17.3181054 C8.35263185,17.3181054 7.72789481,17.0591273 7.26815877,16.5988788 L0.239976954,9.57887876 C0.0863319284,9.4254126 0,9.21716044 0,9 L0,0.818181818 C0,0.366312477 0.366312477,0 0.818181818,0 L9,0 C9.21699531,0 9.42510306,0.0862010512 9.57854191,0.239639906 L16.6084423,7.26954545 C17.5601275,8.22691012 17.5601275,9.77308988 16.6084423,10.7304545 Z M5,6 C4.44771525,6 4,5.55228475 4,5 C4,4.44771525 4.44771525,4 5,4 C5.55228475,4 6,4.44771525 6,5 C6,5.55228475 5.55228475,6 5,6 Z"></path></svg>
+                              </span>
+                              <span class="meta-text">
+                                <a href="/prayer-calendar">Monthly Prayer Calendar</a>
+                              </span>
+                            </li>
+                            <li class="post-date meta-wrapper list-inline-item">
+                              <span class="meta-icon mr-1">
+                                <span class="sr-only">Prayer Calendar date</span>
+                                <svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z"></path></svg>
+                              </span>
+                              <span class="meta-text">
+                                <a href="/prayer-calendar/02-02">February 2</a>
+                              </span>
+                            </li>
+                          </ul><!-- .post-meta -->
+                        </div>
+
+                      <div class="ow-meta d-none">
+                        <p>Title: Europe</p>
+                        <p>Tier: 1</p>
+                        <p>Type: continent</p>
+
+                                                  <p>Topic: Hot Spots of Europe</p>
+                                              </div>
+
+                      <div class="the-content">
+                                                <p>The Caucasus region remains a centre of unresolved tensions &#8211; with its ethnic and religious diversity, history of war and repression, and its position, straddling the oil-rich but politically sensitive region, where many major powers (Russia, Turkey, Iran, the West) have conflicting areas of concern. In all likelihood, decades of unrest lie ahead. Its peoples represent one of the most difficult challenges for evangelization, with many ethnic groups still unreached. Pray for God to somehow break through these seemingly unscalable barriers to the Gospel.</p>
+                      </div>
+                    </div><!-- w-prayer -->
+                                        <div class="w-prayer py-2 border-bottom mb-4 pb-4">
+                      <a href="/prayer-calendar/02-03">
+                        <h2 class="h5 text-uppercase">Europe</h2>
+                      </a>
+
+                        <div class="post-meta-wrapper small post-meta-single post-meta-single-top">
+                          <ul class="list-unstyled">
+                            <li class="post-author meta-wrapper list-inline-item">
+                              <span class="meta-icon mr-1">
+                                <span class="sr-only">Category</span>
+                                <svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><path fill="" d="M15.4496399,8.42490555 L8.66109799,1.63636364 L1.63636364,1.63636364 L1.63636364,8.66081885 L8.42522727,15.44178 C8.57869221,15.5954158 8.78693789,15.6817418 9.00409091,15.6817418 C9.22124393,15.6817418 9.42948961,15.5954158 9.58327627,15.4414581 L15.4486339,9.57610048 C15.7651495,9.25692435 15.7649133,8.74206554 15.4496399,8.42490555 Z M16.6084423,10.7304545 L10.7406818,16.59822 C10.280287,17.0591273 9.65554997,17.3181054 9.00409091,17.3181054 C8.35263185,17.3181054 7.72789481,17.0591273 7.26815877,16.5988788 L0.239976954,9.57887876 C0.0863319284,9.4254126 0,9.21716044 0,9 L0,0.818181818 C0,0.366312477 0.366312477,0 0.818181818,0 L9,0 C9.21699531,0 9.42510306,0.0862010512 9.57854191,0.239639906 L16.6084423,7.26954545 C17.5601275,8.22691012 17.5601275,9.77308988 16.6084423,10.7304545 Z M5,6 C4.44771525,6 4,5.55228475 4,5 C4,4.44771525 4.44771525,4 5,4 C5.55228475,4 6,4.44771525 6,5 C6,5.55228475 5.55228475,6 5,6 Z"></path></svg>
+                              </span>
+                              <span class="meta-text">
+                                <a href="/prayer-calendar">Monthly Prayer Calendar</a>
+                              </span>
+                            </li>
+                            <li class="post-date meta-wrapper list-inline-item">
+                              <span class="meta-icon mr-1">
+                                <span class="sr-only">Prayer Calendar date</span>
+                                <svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z"></path></svg>
+                              </span>
+                              <span class="meta-text">
+                                <a href="/prayer-calendar/02-03">February 3</a>
+                              </span>
+                            </li>
+                          </ul><!-- .post-meta -->
+                        </div>
+
+                      <div class="ow-meta d-none">
+                        <p>Title: Europe</p>
+                        <p>Tier: 1</p>
+                        <p>Type: continent</p>
+
+                                                  <p>Topic: Trends to Watch - Europe</p>
+                                              </div>
+
+                      <div class="the-content">
+                                                <p>The growth of Islam through immigration and a higher birth rate is such that Islam has become the second religion of Europe. It is the largest religion in Albania, Bosnia and of other potential new nations – Kosovo as well as several republics in the Russian Federation. Integration and extremism remain serious but unresolved issues. But higher birthrates, the continued immigration of Muslims, savvy lobbying for concessions to Muslim sensibilities and a fundamental inability to exist as a placid minority mean the rise of Islam’s influence in Europe. Some Muslims seek to assimilate into a multicultural Europe on their own terms; others intend to dominate Europe’s future and impose shari’a law. Many simply seek an existence far from the violence, destruction, and poverty of the homelands they fled. Alarm and fear characterize the response of many, including Christians. Yet Muslims form a possible bulwark against further secularization and atheism. Most are deeply moral people, and many are not far from the Kingdom of God. Pray that Christians might cooperate with God-fearing Muslims when appropriate and, at all times, extend the love of Jesus and power of the gospel.</p>
+                      </div>
+                    </div><!-- w-prayer -->
+                                        <div class="w-prayer py-2 border-bottom mb-4 pb-4">
+                      <a href="/prayer-calendar/02-04">
+                        <h2 class="h5 text-uppercase">Europe</h2>
+                      </a>
+
+                        <div class="post-meta-wrapper small post-meta-single post-meta-single-top">
+                          <ul class="list-unstyled">
+                            <li class="post-author meta-wrapper list-inline-item">
+                              <span class="meta-icon mr-1">
+                                <span class="sr-only">Category</span>
+                                <svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><path fill="" d="M15.4496399,8.42490555 L8.66109799,1.63636364 L1.63636364,1.63636364 L1.63636364,8.66081885 L8.42522727,15.44178 C8.57869221,15.5954158 8.78693789,15.6817418 9.00409091,15.6817418 C9.22124393,15.6817418 9.42948961,15.5954158 9.58327627,15.4414581 L15.4486339,9.57610048 C15.7651495,9.25692435 15.7649133,8.74206554 15.4496399,8.42490555 Z M16.6084423,10.7304545 L10.7406818,16.59822 C10.280287,17.0591273 9.65554997,17.3181054 9.00409091,17.3181054 C8.35263185,17.3181054 7.72789481,17.0591273 7.26815877,16.5988788 L0.239976954,9.57887876 C0.0863319284,9.4254126 0,9.21716044 0,9 L0,0.818181818 C0,0.366312477 0.366312477,0 0.818181818,0 L9,0 C9.21699531,0 9.42510306,0.0862010512 9.57854191,0.239639906 L16.6084423,7.26954545 C17.5601275,8.22691012 17.5601275,9.77308988 16.6084423,10.7304545 Z M5,6 C4.44771525,6 4,5.55228475 4,5 C4,4.44771525 4.44771525,4 5,4 C5.55228475,4 6,4.44771525 6,5 C6,5.55228475 5.55228475,6 5,6 Z"></path></svg>
+                              </span>
+                              <span class="meta-text">
+                                <a href="/prayer-calendar">Monthly Prayer Calendar</a>
+                              </span>
+                            </li>
+                            <li class="post-date meta-wrapper list-inline-item">
+                              <span class="meta-icon mr-1">
+                                <span class="sr-only">Prayer Calendar date</span>
+                                <svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z"></path></svg>
+                              </span>
+                              <span class="meta-text">
+                                <a href="/prayer-calendar/02-04">February 4</a>
+                              </span>
+                            </li>
+                          </ul><!-- .post-meta -->
+                        </div>
+
+                      <div class="ow-meta d-none">
+                        <p>Title: Europe</p>
+                        <p>Tier: 1</p>
+                        <p>Type: continent</p>
+
+                                                  <p>Topic: The Church in Europe</p>
+                                              </div>
+
+                      <div class="the-content">
+                                                <p>Effective collaboration and partnerships between immigrant churches and indigenous churches in Europe are essential and hold immense promise and power. These can give grounding, training, resources, and a sense of acceptance to the newer churches and offer energy, spiritual vitality and links to burgeoning communities that the older churches need. Together, immigrant and indigenous Christians can offer a shining example of Christ&#8217;s reconciling power. Immigrant churches are undeniably vital to Europe&#8217;s future. Pray for God to raise up men and women who will pioneer this bridging of different cultures and backgrounds into one unified body that will glorify Jesus and win Europe back to the gospel.</p>
+                      </div>
+                    </div><!-- w-prayer -->
+                                        <div class="w-prayer py-2 border-bottom mb-4 pb-4">
+                      <a href="/prayer-calendar/02-05">
+                        <h2 class="h5 text-uppercase">Europe</h2>
+                      </a>
+
+                        <div class="post-meta-wrapper small post-meta-single post-meta-single-top">
+                          <ul class="list-unstyled">
+                            <li class="post-author meta-wrapper list-inline-item">
+                              <span class="meta-icon mr-1">
+                                <span class="sr-only">Category</span>
+                                <svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><path fill="" d="M15.4496399,8.42490555 L8.66109799,1.63636364 L1.63636364,1.63636364 L1.63636364,8.66081885 L8.42522727,15.44178 C8.57869221,15.5954158 8.78693789,15.6817418 9.00409091,15.6817418 C9.22124393,15.6817418 9.42948961,15.5954158 9.58327627,15.4414581 L15.4486339,9.57610048 C15.7651495,9.25692435 15.7649133,8.74206554 15.4496399,8.42490555 Z M16.6084423,10.7304545 L10.7406818,16.59822 C10.280287,17.0591273 9.65554997,17.3181054 9.00409091,17.3181054 C8.35263185,17.3181054 7.72789481,17.0591273 7.26815877,16.5988788 L0.239976954,9.57887876 C0.0863319284,9.4254126 0,9.21716044 0,9 L0,0.818181818 C0,0.366312477 0.366312477,0 0.818181818,0 L9,0 C9.21699531,0 9.42510306,0.0862010512 9.57854191,0.239639906 L16.6084423,7.26954545 C17.5601275,8.22691012 17.5601275,9.77308988 16.6084423,10.7304545 Z M5,6 C4.44771525,6 4,5.55228475 4,5 C4,4.44771525 4.44771525,4 5,4 C5.55228475,4 6,4.44771525 6,5 C6,5.55228475 5.55228475,6 5,6 Z"></path></svg>
+                              </span>
+                              <span class="meta-text">
+                                <a href="/prayer-calendar">Monthly Prayer Calendar</a>
+                              </span>
+                            </li>
+                            <li class="post-date meta-wrapper list-inline-item">
+                              <span class="meta-icon mr-1">
+                                <span class="sr-only">Prayer Calendar date</span>
+                                <svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z"></path></svg>
+                              </span>
+                              <span class="meta-text">
+                                <a href="/prayer-calendar/02-05">February 5</a>
+                              </span>
+                            </li>
+                          </ul><!-- .post-meta -->
+                        </div>
+
+                      <div class="ow-meta d-none">
+                        <p>Title: Europe</p>
+                        <p>Tier: 1</p>
+                        <p>Type: continent</p>
+
+                                                  <p>Topic: The Unfinished Task in Europe</p>
+                                              </div>
+
+                      <div class="the-content">
+                                                <p>Great swathes of Central and Western Europe are truly post-Christian — where committed Christian remnants are small in number, low in confidence and marginalized. In these areas, the Church&#8217;s battle against secularization and social irrelevance has been lost. What little faith remains is confined to private belief. These regions are some of the most devoid of spiritual life in the world and urgently need to be re-evangelized. Pray for a new wave of mission to post-Christian Europe, and for the re-awakening and revitalisation of the Christian faith. It may fall to the vibrant faith of African, Asian, and Latin American migrant churches to provide a new spiritual impetus to these regions.</p>
+                      </div>
+                    </div><!-- w-prayer -->
+                    
+                  
+                  <div class="p-4 [ bg-primary bg-ow-paper bg-hard-light bg-center ] mb-3">
+  <h3 class="h5 text-uppercase">More Information</h3>
+  <ol>
+    <li>Get all of this content and daily notifications in our free mobile app. <a class="text-white" href="/prayer-resources/prayer-app/">Download here&nbsp;›</a>
+    <li>Sign up for a <a href="/get-involved/newsletter/" class="text-white">daily e-mail</a> that gets you the featured prayer point of the day straight to your inbox.</li>
+    <li>This content is a curated selection of points from our book, Operation World. Find out more about it and all the rest of <a class="text-white" href="/publications" rel="nofollow">Our Publications&nbsp;›</a>
+  </ol>
+  <p class="small mb-0">Content taken or adapted from Operation World, 7th Edition (2010) and Pray for the World (2015). Both books are published by InterVarsity Press. All rights reserved.
+</div>
+
+                </div><!-- col -->
+              </div><!-- row -->
+            </div><!-- entry-content -->
+          </article>
+        </div><!-- container -->
+      </main><!-- #site-content -->
+  </div><!-- container -->
+</div>
+
+	</div><!-- bg-light -->
+
+ <div class="font-small fixed-bottom text-white bg-dark container rounded-top" id="cookieNotice">
+  <div class="row">
+    <div class="col-12 col-md-9">
+      <div class="small py-3">
+        We would like to use cookies to give you the best possible experience, and to help us improve our website by collecting and reporting information on how you use it. The cookies collect information in a way that does not directly identify anyone. We recommend you read our <a href="/privacy" class="text-white" style="text-decoration:underline">Privacy Policy</a> to find out more about how we use cookies. By clicking 'Continue' you agree to allow us to collect information on and off operationworld.org through cookies.
+      </div>
+    </div>
+    <div class="col-12 col-md-3 d-flex justify-content-center">
+      <div class="text-center align-self-center">
+        <button type="button" class="px-5 btn btn-primary mb-1" id="give-consent-btn">Continue</button>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- MODAL -->
+<div class="modal fade" id="manage-cookie-consent" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">Manage Cookies</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="custom-control custom-switch">
+          <input type="checkbox" checked class="custom-control-input" id="required-cookies" disabled="true">
+          <label class="custom-control-label" for="required-cookies">Necessary Cookies (required): Necessary cookies enable core functionality such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.</label>
+        </div>
+        <div class="py-3 custom-control custom-switch">
+          <input type="checkbox" checked class="custom-control-input" id="analytics-cookies" value="true">
+          <label class="custom-control-label" for="analytics-cookies">Analytics Cookies: We'd like to use Google Analytics cookies to help us to improve our website by collecting and reporting information on how you use it. The cookies collect information in a way that does not directly identify anyone. For more information on how these cookies work, please see our <a href="/privacy" style="text-decoration:underline">Privacy Policy</a>.</label>
+        </div>
+
+      </div>
+      <div class="modal-footer">
+        <a class="mr-3" type="button" class="text-dark" data-dismiss="modal">Cancel</a>
+        <button type="button" class="btn btn-primary" data-dismiss="modal" id="save-cookie-settings">Save Changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+	<footer class="global-footer effect-all d-print-none text-white py-5 [ bg-grey-dark bg-ow-paper bg-gradiant- bg-gradiant-linear bg-hard-light bg-bottom ]" role="contentinfo">
+	  <div class="container">
+	    <div class="row mb-4">
+	      <div class="col-md-3">
+	        <a class="navbar-brand pb-3" href="https://operationworld.org/">
+	          <img src="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/brand/logo-ow.png" alt="Operation World">
+	        </a>
+	        <p class="small">The Definitive Prayer Guide to Every&nbsp;Nation</p>
+      		<p class="small">In Partnership with:</p>
+        	<img class="logo-partner" src="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/brand/logo-wec.png" alt="WEC">
+        	<img class="logo-partner" src="https://operationworld.org/wp-content/themes/bridge_wp_theme/assets/images/brand/logo-ivp.png" alt="IVP">
+	      </div><!-- col -->
+
+	       <div class="menu-footer-menu col-md-9"><ul id="menu-footer-main" class="menu"><li id="menu-item-927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-927"><a href="https://operationworld.org/what-we-do/">About OW</a>
+<ul class="sub-menu">
+	<li id="menu-item-928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-928"><a href="https://operationworld.org/what-we-do/ethos-of-ow/">The Ethos of Operation World</a></li>
+	<li id="menu-item-1161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1161"><a href="https://operationworld.org/what-we-do/prayer-and-world-evangelization/">Prayer and World Evangelization</a></li>
+	<li id="menu-item-939" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-939"><a href="https://operationworld.org/what-we-do/updates/">Updates/Blog</a></li>
+	<li id="menu-item-930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-930"><a href="https://operationworld.org/what-we-do/about-wec-international/">About WEC International</a></li>
+	<li id="menu-item-1211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1211"><a href="https://operationworld.org/what-we-do/about-intervarsity-press/">About InterVarsity Press</a></li>
+	<li id="menu-item-1182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1182"><a href="https://operationworld.org/what-we-do/faq/">Frequently Asked Questions</a></li>
+	<li id="menu-item-1187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1187"><a href="https://operationworld.org/what-we-do/glossary/">Glossary</a></li>
+	<li id="menu-item-1186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1186"><a href="https://operationworld.org/what-we-do/abbr/">Abbreviations</a></li>
+	<li id="menu-item-1226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1226"><a href="https://operationworld.org/what-we-do/what-people-are-saying/">What People Are Saying</a></li>
+</ul>
+</li>
+<li id="menu-item-923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-923"><a href="https://operationworld.org/prayer-resources/">Prayer Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-935"><a href="https://operationworld.org/publications/">Our Publications</a></li>
+	<li id="menu-item-919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-919"><a href="https://operationworld.org/prayer-resources/today/">Pray Today</a></li>
+	<li id="menu-item-40" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40"><a href="/prayer-calendar/">Prayer Calendar</a></li>
+	<li id="menu-item-944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-944"><a href="https://operationworld.org/prayer-resources/countries-alphabetically/">Countries Alphabetically</a></li>
+	<li id="menu-item-5252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5252"><a href="https://operationworld.org/prayer-resources/pray-for-the-world-regions/">Pray for the World &#038; Regions</a></li>
+	<li id="menu-item-1323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1323"><a href="https://operationworld.org/prayer-resources/special-issues-for-prayer/">Special Issues for Prayer</a></li>
+	<li id="menu-item-936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-936"><a href="https://operationworld.org/prayer-resources/church-resources/">Resources for Churches</a></li>
+	<li id="menu-item-924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-924"><a href="https://operationworld.org/prayer-resources/helpful-resources/">Other Helpful Resources</a></li>
+</ul>
+</li>
+<li id="menu-item-1319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1319"><a href="https://operationworld.org/get-involved/">Get Involved</a>
+<ul class="sub-menu">
+	<li id="menu-item-1322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1322"><a href="https://operationworld.org/get-involved/newsletter/">Sign up for OW Daily Prayer E-mail</a></li>
+	<li id="menu-item-925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-925"><a href="https://operationworld.org/get-involved/prayer-app/">Download OW Prayer App</a></li>
+	<li id="menu-item-929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-929"><a href="https://operationworld.org/get-involved/contact-us/">Contact Us</a></li>
+	<li id="menu-item-1321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1321"><a href="https://operationworld.org/get-involved/join-the-team/">Join the Team</a></li>
+	<li id="menu-item-1320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1320"><a href="https://operationworld.org/get-involved/social-media/">Follow Our Social Media</a></li>
+	<li id="menu-item-1212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1212"><a href="https://operationworld.org/get-involved/give/">Give</a></li>
+	<li id="menu-item-933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-933"><a href="https://operationworld.org/search/">Search</a></li>
+</ul>
+</li>
+</ul></div>	    </div><!-- row -->
+
+	    <div class="row small">
+	      <div class="col-lg-10">
+	        <p class="text-footer-muted">&copy;
+	        	2024	          Operation&nbsp;World. All Rights Reserved
+	        <div class="menu-footer-meta text-footer-muted"><ul id="menu-footer-meta" class="menu"><li id="menu-item-915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-915"><a href="https://operationworld.org/terms/">Terms of Use</a></li>
+<li id="menu-item-916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-916"><a href="https://operationworld.org/privacy/">Privacy Policy</a></li>
+<li id="menu-item-941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-941"><a href="https://operationworld.org/credits/">Credits</a></li>
+<li id="menu-item-942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-942"><a href="https://operationworld.org/sitemap/">Sitemap</a></li>
+<li id="menu-item-37" class="social-icon social-youtube menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a target="_blank" rel="noopener" href="https://www.youtube.com/user/OperationWorld">YouTube</a></li>
+<li id="menu-item-36" class="social-icon social-facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a title="social-facebook" target="_blank" rel="noopener" href="https://www.facebook.com/OperationWorld/">Facebook</a></li>
+<li id="menu-item-35" class="social-icon social-twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-35"><a target="_blank" rel="noopener" href="https://twitter.com/operationworld">Twitter</a></li>
+<li id="menu-item-1152" class="social-icon social-instagram menu-item menu-item-type-custom menu-item-object-custom menu-item-1152"><a target="_blank" rel="noopener" href="https://www.instagram.com/OperationWorld/">Instagram</a></li>
+</ul></div>	      </div><!-- col -->
+
+	      <div class="col-lg-2 text-lg-right">
+	        <a href="#top" class="js-link-scroll text-light">Back to Top <span aria-hidden="true" class="arrow-up"></span></a>
+	      </div><!-- col -->
+	    </div><!-- row -->
+	  </div><!-- container -->
+	</footer>
+		<div class="py-1 [ bg-primary bg-ow-paper bg-overlay ]"></div>
+
+	<script src='https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js?ver=2.2.1' id='js-cookie-js'></script>
+<script src='https://operationworld.org/wp-content/plugins/i_am_praying_plugin/assets/i-am-praying.js?ver=1.0.0' id='yop_i_am_praying_site_js-js'></script>
+<script src='https://operationworld.org/wp-content/themes/bridge_wp_theme/dist/js/vendor/bootstrap.bundle.min.js' id='bootstrap-js-js'></script>
+<script src='https://operationworld.org/wp-content/themes/bridge_wp_theme/dist/js/vendor/popper.min.js' id='bppopper-js-js'></script>
+<script src='https://operationworld.org/wp-content/themes/bridge_wp_theme/dist/js/main.min.js' id='operationworld-js-js'></script>
+<script src='https://operationworld.org/wp-includes/js/wp-embed.min.js?ver=5.7.1' id='wp-embed-js'></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-08LTB3XCK5"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('consent', 'default', {'analytics_storage': 'denied'});
+	  gtag('js', new Date());
+	  gtag('config', 'G-08LTB3XCK5', {
+		  'anonymize_ip': true
+	  });
+	  /**
+	   * Handle the consent Google Analytics
+	   * @var [type]
+	   */
+	  jQuery(function($) {
+		/**
+		 * We want secure cookies on the main site but not my local site.
+		 * @var boolean
+		 */
+		var secure = ((window.location.hostname === 'bridge.operationworld.org') || (window.location.hostname === 'operationworld.org'));
+		/**
+		 * The user's has approved consent
+		 *
+		 * @return {void}
+		 */
+		function giveConsent() {
+			/**
+			 * Set consent for 30 days
+			 */
+			gtag('consent', 'update', { 'analytics_storage': 'granted' });
+			Cookies.set('cookie-consent', true, { expires: 60, sameSite: 'strict', secure: secure });
+			$('#cookieNotice').hide();
+			setToggle(true);
+		}
+		/**
+		 * The user's has denied consent
+		 *
+		 * @return {void}
+		 */
+		function removeConsent() {
+			/**
+			 * Set consent for 30 days
+			 */
+			gtag('consent', 'update', { 'analytics_storage': 'denied' });
+			Cookies.set('cookie-consent', false, { expires: 60, sameSite: 'strict', secure: secure  });
+			$('#cookieNotice').hide();
+			setToggle(false);
+		}
+		/**
+		 * set the toggle based on the user's choice
+		 *
+		 * @param boolean consent Did they consent?
+		 */
+		function setToggle(consent) {
+			$('#analytics-cookies').val(consent).attr('checked', consent);
+		}
+
+		$('#give-consent-btn').on('click', function(event) {
+			event.stopPropagation();
+			giveConsent();
+			return false;
+		});
+		$('#save-cookie-settings').on('click', function(event) {
+			var consented = ($('#analytics-cookies').val() === 'true') ? true : false;
+			if (consented) {
+				giveConsent();
+			} else {
+				removeConsent();
+			}
+			return true;
+		});
+		$('#analytics-cookies').on('click', function(event) {
+			var checked = ($(this).val() === 'true') ? true : false;
+			$(this).val(!checked);
+		});
+		var consent = Cookies.get('cookie-consent');
+		if (typeof consent === 'undefined') {
+		  // The cookie has expired, so deny until approval until consented again
+		  gtag('consent', 'update', { 'analytics_storage': 'denied' });
+		  setToggle(false);
+	  	} else if (consent == 'true') {
+			giveConsent();
+		} else {
+			removeConsent();
+		}
+		/**
+		 * Add a cookie management link to footer.
+		 */
+		var terms = $('#menu-footer-meta').children().eq(1);
+		terms.after('<li><a href="#" data-toggle="modal" data-target="#manage-cookie-consent">Manage Cookies</a></li>');
+	  });
+	</script>
+</body>
+</html>
